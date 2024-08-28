@@ -30,7 +30,7 @@
   :woman_technologist: About Me :
 </h2>
 
-   - :woman_office_worker: I am Shivani Gupta, Software Engineer Intern at Kanerika Software Pvt Ltd, Former Software Engineer Intern at Microsoft.
+   - :woman_office_worker: I am Shivani Gupta, Associate Software Engineer at Kanerika Software Pvt Ltd, Former Software Engineer Intern at Microsoft and Kanerika Software Pvt Ltd.
    - :woman_student: I am pursuing Masters in Computer Application from NIT Raipur and will graduate in mid-2024.
    - :dart: I am a Data Engineer & Data analyst working on Microsoft PowerBI, Microsoft Fabric and My SQL Server.
    - :telescope: I also have good knowledge of front end engineering and also learning React and python.
